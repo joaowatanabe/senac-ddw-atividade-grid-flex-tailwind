@@ -259,6 +259,9 @@
   .grid {
     display: grid;
   }
+  .inline {
+    display: inline;
+  }
   .h-10 {
     height: calc(var(--spacing) * 10);
   }
